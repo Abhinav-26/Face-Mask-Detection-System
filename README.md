@@ -7,3 +7,5 @@ In this Repository I have uploaded Mask Detection System using Python3 and conce
 3. Train Your Model<br>
 4. A new weight will be saved, download it<br>
 5. Run MaskDetection.py for real-time detection
+
+NOTE: <b>Some of the minor Changes are still yet to be done</b>
