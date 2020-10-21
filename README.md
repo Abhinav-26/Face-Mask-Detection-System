@@ -15,4 +15,4 @@ To see the demonstration of the project <a href="https://www.linkedin.com/posts/
 
 
 
-<b>NOTE: Some of the minor Changes are still yet to be done but you can clone it and use.</b>
+<b>NOTE:</b> Some of the minor Changes are still yet to be done but you can clone it and use.
