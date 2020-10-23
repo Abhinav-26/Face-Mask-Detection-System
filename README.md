@@ -12,7 +12,3 @@ To see the demonstration of the project <a href="https://www.linkedin.com/posts/
 3. Train Your Model<br>
 4. A new weight will be saved, download it<br>
 5. <code>python3 MaskDetection.py</code> for real-time detection
-
-
-
-<b>NOTE:</b> Some of the minor Changes are still yet to be done but you can clone it and use.
